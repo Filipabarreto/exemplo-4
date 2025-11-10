@@ -1,2 +1,2 @@
 # exemplo-4
-armazenar exemplos da quarta aula
+armazenar exemplos da 4 aula
